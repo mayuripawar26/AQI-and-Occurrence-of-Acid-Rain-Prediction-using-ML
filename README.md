@@ -9,3 +9,5 @@ Feature Engineering
 Exploratory Data Analysis (EDA)
 Machine Learning Model Selection
 Validation and Testing
+
+(Research paper is also included in the repository) 
